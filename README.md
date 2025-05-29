@@ -74,7 +74,7 @@ Currently pursuing **Bachelor in Data Science** at Telkom University
 ### Data Analytics & Visualization
 - **Credit Card Customer Clustering** - K-Means segmentation with Streamlit deployment
 - **Fashion E-commerce Analytics** - Tableau dashboard for marketing insights
-- **❤Heart Disease Prediction** - ML model with interactive web interface
+- **Heart Disease Prediction** - ML model with interactive web interface
 - **PaDi UMKM Landing Page Redesign** - UX Optimization with A/B Testing (Digistar Class)
 
 ---
