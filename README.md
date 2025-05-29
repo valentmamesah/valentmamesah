@@ -1,24 +1,25 @@
 # Hi there! 👋 I'm Valentino Fredrick Albert Mamesah
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Data+Science+Student;Machine+Learning+Engineer;Python+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=valentmamesah&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/valentmamesah?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
 </p>
 
 ## 🎓 About Me
 
-🔭 Currently pursuing **Bachelor in Data Science** at Telkom University (GPA: 3.7/4.0)  
-💼 **Data Scientist Intern** at Humic Engineering, building AI-powered health applications  
+🔭 Currently pursuing **Bachelor in Data Science** at Telkom University
+
+💼 **Data Scientist Intern** at Humic Engineering 
+
 🔬 **Research Focus**: Shaded Walkway Optimization using MST Algorithm (Undergraduate Thesis)  
 
 ### 🌟 What I'm Working On
 - 🍎 **Food Recognition System** with Computer Vision for nutritional analysis
 - 🚶‍♂️ **Pedestrian Path Optimization** using Graph Algorithms and GIS
-- 📱 **Health App Integration** with ML-powered food detection
+- 📱 **Recomendation Phone App Integration** with LLM-powered 
 - 🔍 **Database Performance Research** in Big Data Laboratory
 
 ---
@@ -62,7 +63,6 @@
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valentmamesah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentmamesah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
@@ -115,5 +115,5 @@
 </div>
 
 <div align="center">
-  <i>"Transforming data into insights, one algorithm at a time 📊✨"</i>
+  <i>"Damn 📊✨"</i>
 </div>
