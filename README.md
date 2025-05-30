@@ -10,8 +10,6 @@ Currently pursuing **Bachelor in Data Science** at Telkom University
 
 **Data Scientist Intern** at Humic Engineering 
 
-**Research Focus**: Shaded Walkway Optimization using MST Algorithm (Undergraduate Thesis)  
-
 ### 🌟 What I'm Working On
 - 🍎 **Food Recognition System** with Computer Vision for nutritional analysis
 - 🚶‍♂️ **Pedestrian Path Optimization** using Graph Algorithms and GIS
@@ -29,7 +27,7 @@ Currently pursuing **Bachelor in Data Science** at Telkom University
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-### Machine Learning & AI
+### Machine Learning 
 <p align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
