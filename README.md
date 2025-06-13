@@ -1,20 +1,20 @@
-# Hi there! 👋 I'm Valentino Fredrick Albert Mamesah
+# Hi there! I'm Valentino Fredrick Albert Mamesah
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🎓 About Me
+## About Me
 
 Currently pursuing **Bachelor in Data Science** at Telkom University
 
 **Data Scientist Intern** at Humic Engineering 
 
-### 🌟 What I'm Working On
+### What I'm Working On
 - 🍎 **Food Recognition System** with Computer Vision for nutritional analysis
 - 🚶‍♂️ **Pedestrian Path Optimization** using Graph Algorithms and GIS
 - 📱 **Recomendation Phone App Integration** with LLM-powered 
-- 🔍 **Database Performance Research** in Big Data Laboratory
+- 🔍 **Database Relational Research** in Big Data Laboratory
 
 ---
 
@@ -59,21 +59,6 @@ Currently pursuing **Bachelor in Data Science** at Telkom University
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentmamesah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### Machine Learning
-- **Food Recognition System** - Computer Vision for nutritional analysis in health apps
-- **AI Smartphone Recommender** - LLM-powered chatbot with content-based filtering
-- **Instagram Sentiment Analysis** - 80K+ comments analysis for political campaigns
-
-### Data Analytics & Visualization
-- **Credit Card Customer Clustering** - K-Means segmentation with Streamlit deployment
-- **Fashion E-commerce Analytics** - Tableau dashboard for marketing insights
-- **Heart Disease Prediction** - ML model with interactive web interface
-- **PaDi UMKM Landing Page Redesign** - UX Optimization with A/B Testing (Digistar Class)
 
 ---
 
